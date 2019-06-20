@@ -4,3 +4,4 @@ pat甲级
 #include <iostream>  
 #include<vector>  
 #include <map>  
+#include <cstring>  
