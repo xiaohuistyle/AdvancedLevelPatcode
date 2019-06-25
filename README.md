@@ -5,3 +5,4 @@ pat甲级
 #include<vector>  
 #include <map>  
 #include <cstring>  
+#include <algorithm>
