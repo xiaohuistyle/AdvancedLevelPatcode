@@ -1,8 +1,8 @@
 # AdvancedLevelPatcode
 pat甲级
 用到的库  
-#include <iostream>  
+#include<iostream>  
 #include<vector>  
-#include <map>  
-#include <cstring>  
-#include <algorithm>
+#include<map>  
+#include<cstring>  
+#include<algorithm>
